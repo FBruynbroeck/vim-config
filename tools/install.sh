@@ -5,7 +5,7 @@
 cd $HOME
 echo "Installing vim-config..."
 rm -rf .vim
-git clone https://FBruynbroeck@bitbucket.org/FBruynbroeck/vim-config.git .vim
+git clone git@github.com:FBruynbroeck/vim-config.git .vim
 mkdir .vim/undofiles
 echo "Installing .vimrc..."
 rm .vimrc

@@ -7,7 +7,7 @@ Installation
 ============
 
 ```
-$ wget --no-check-certificate -O- https://bitbucket.org/FBruynbroeck/vim-config/raw/master/tools/install.sh | sh -
+$ wget --no-check-certificate -O- https://raw.githubusercontent.com/FBruynbroeck/vim-config/master/tools/install.sh | sh -
 ```
 
 Warning
