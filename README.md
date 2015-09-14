@@ -1,20 +1,11 @@
 My vim config
 =============
 
-Only works with vim >= 7.3
+Only works with vim >= 7.4
 
-INSTALL
+Installation
 =======
 
 ```
-cd ~
-rm .vimrc
-echo "so \$HOME/.vim/vimrc.vim" > .vimrc
-
-rm -rf .vim
-git clone git@github.com:FBruynbroeck/vim-config.git .vim
-
-mkdir .vim/undofiles
-
-oh-my-vim install -f=true $HOME/.vim/requires.txt
+$ wget --no-check-certificate -O- https://bitbucket.org/FBruynbroeck/vim-config/raw/master/tools/install.sh | sh -
 ```
