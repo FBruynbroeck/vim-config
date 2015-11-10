@@ -81,3 +81,6 @@ augroup python
     au BufWinEnter *.py,*.py_tmpl let w:longline1=clearmatches()
     au BufWinEnter *.py,*.py_tmpl let w:longline2=clearmatches()
 augroup END
+
+"Fugitive GitLab domains
+let g:fugitive_gitlab_domains = ['http://git.affinitic.be']
