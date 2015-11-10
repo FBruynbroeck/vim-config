@@ -76,6 +76,11 @@ let g:email=$GIT_AUTHOR_EMAIL
 let g:license="LICENCE.txt"
 let g:templates_directory=$HOME.'/.vim/templates'
 
+"Snipmate
+    "Force to use only this directory
+let g:snippets_dir=$HOME.'/.vim/snippets'
+"let g:snips_trigger_key = '<tab>'
+"let g:snips_trigger_key_backwards = '<s-tab>'
 
 " SuperTab
 "let g:SuperTabDefaultCompletionType = "context"
