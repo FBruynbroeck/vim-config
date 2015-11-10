@@ -14,5 +14,6 @@ git+https://github.com/tommcdo/vim-fubitive.git
 git+https://github.com/airblade/vim-gitgutter.git
 git+https://github.com/heavenshell/vim-pydocstring.git
 git+https://github.com/aperezdc/vim-template.git
+git+git@github.com:FBruynbroeck/vim-trac.git
 git+https://github.com/bronson/vim-trailing-whitespace.git
 git+https://github.com/othree/xml.vim.git
