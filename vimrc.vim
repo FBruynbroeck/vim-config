@@ -76,6 +76,11 @@ let g:email=$GIT_AUTHOR_EMAIL
 let g:license="LICENCE.txt"
 let g:templates_directory=$HOME.'/.vim/templates'
 
+
+" SuperTab
+"let g:SuperTabDefaultCompletionType = "context"
+"
+
 "Reset longline color (oh-my-vim python profile)
 augroup python
     au BufWinEnter *.py,*.py_tmpl let w:longline1=clearmatches()
