@@ -70,9 +70,9 @@ let g:jedi#use_splits_not_buffers="right"
 "let g:jedi#completions_enabled=0
 let g:jedi#popup_on_dot = 0
 
-" Template
-let g:user="FBruynbroeck"
-let g:email="francois.bruynbroeck@hotmail.com"
+"Template
+let g:user=$GIT_AUTHOR_NAME
+let g:email=$GIT_AUTHOR_EMAIL
 let g:license="LICENCE.txt"
 let g:templates_directory=$HOME.'/.vim/templates'
 
