@@ -68,7 +68,11 @@ let g:pymode_folding=0
 "Jedi
 let g:jedi#use_splits_not_buffers="right"
 "let g:jedi#completions_enabled=0
+let g:jedi#completions_command = "<c-n>"
 let g:jedi#popup_on_dot = 0
+let g:jedi#show_call_signatures = 0
+let g:jedi#popup_select_first = 0
+let g:jedi#smart_auto_mappings = 0
 
 "Template
 let g:user=$GIT_AUTHOR_NAME
