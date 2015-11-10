@@ -5,6 +5,7 @@ git+https://github.com/vim-scripts/fugitive.vim.git
 git+https://github.com/sjl/gundo.vim.git
 git+git@github.com:FBruynbroeck/jedi-vim.git
 git+https://github.com/scrooloose/nerdtree.git
+git+https://github.com/Xuyuanp/nerdtree-git-plugin.git
 git+git://github.com/klen/python-mode.git
 git+https://github.com/hut/ranger.git
 git+https://github.com/msanders/snipmate.vim.git
