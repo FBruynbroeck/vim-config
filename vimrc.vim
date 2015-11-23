@@ -64,6 +64,8 @@ autocmd BufRead,BufNewFile *.zcml :set ft=xml
 " Remove rope of pymode
 let g:pymode_rope = 0
 let g:pymode_folding=0
+" Fix issue #374 of python-mode
+au BufWriteCmd *.py write || :PymodeLint
 
 "Jedi
 let g:jedi#use_splits_not_buffers="right"
