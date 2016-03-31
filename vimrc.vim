@@ -50,9 +50,6 @@ set backspace=2
 
 "Solarized
 let g:solarized_termtrans=1
-let g:solarized_termcolors=256
-syntax enable
-set background=dark
 colorscheme solarized
 
 "Clipboard
