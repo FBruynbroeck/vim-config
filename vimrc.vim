@@ -109,3 +109,6 @@ let g:trac_command = '<C-x>'
 " Airline
 let g:airline_powerline_fonts=1
 let g:airline#extensions#tabline#enabled = 1
+
+"Auto spell when .txt
+autocmd BufEnter *.txt set spell

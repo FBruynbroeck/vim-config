@@ -9,6 +9,8 @@ map <C-n> :NERDTreeFind<CR>
 map <C-c> "*y<CR>
 "Gundo
 nnoremap <F5> :GundoToggle<CR>
+"Spell
+map <silent> <F6> "<Esc>:silent setlocal spell! spelllang=fr<CR>"
 "Ack
 nmap <leader>a :Ack <cword><CR>
 vmap <leader>a y:Ack <C-r>=fnameescape(@")<CR><CR>
