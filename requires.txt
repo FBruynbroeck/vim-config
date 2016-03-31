@@ -1,3 +1,4 @@
+git+https://github.com/mileszs/ack.vim.git
 git+https://github.com/vim-scripts/bufexplorer.zip.git
 git+git://github.com/hrp/EnhancedCommentify.git
 git+https://github.com/shumphrey/fugitive-gitlab.vim.git

@@ -24,3 +24,8 @@ Install this font on your system and then apply it in iTerm2 through
 iTerm -> preferences -> profiles -> text
 
 I've chosen 12pt as font-size for my setup, so apply PowerLine for Regular Font and Non-ASCII Font by clicking each Change Font button and select "Monaco for Powerline".
+
+ack.vim
+=======
+
+Install ack. (brew install ack)
