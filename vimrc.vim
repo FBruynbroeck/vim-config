@@ -104,7 +104,7 @@ let g:fugitive_gitlab_domains = ['http://git.affinitic.be']
 
 "Trac
 let g:trac_domain = $TRAC_URL
-let g:trac_command = '<C-x>'
+let g:trac_command = 'gt'
 
 " Airline
 let g:airline_powerline_fonts=1
