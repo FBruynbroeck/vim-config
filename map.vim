@@ -11,6 +11,9 @@ map <C-c> "*y<CR>
 nnoremap <F5> :GundoToggle<CR>
 "Spell
 map <silent> <F6> "<Esc>:silent setlocal spell! spelllang=fr<CR>"
+"CtrlP
+nmap <leader>lw :CtrlP<CR><C-\>w
+vmap <leader>lw y:CtrlP<CR><C-\>c
 "Ack
 nmap <leader>a :Ack <cword><CR>
 vmap <leader>a y:Ack <C-r>=fnameescape(@")<CR><CR>
