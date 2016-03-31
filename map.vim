@@ -3,6 +3,8 @@ noremap <S-c> :call EnhancedCommentify('', 'guess')<CR>
 noremap <S-x> :call EnhancedCommentify('', 'comment')<CR>
 "Map BufExplorer"
 map <S-B> :BufExplorer<CR>
+nmap <Tab> :bn<Cr>
+nmap <S-Tab> :bp<Cr>
 "NERDTree"
 map <C-n> :NERDTreeFind<CR>
 "Copy ctrl+c
