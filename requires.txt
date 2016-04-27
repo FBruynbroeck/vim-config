@@ -13,6 +13,7 @@ git+https://github.com/hut/ranger.git
 git+https://github.com/msanders/snipmate.vim.git
 git+https://github.com/ervandew/supertab.git
 git+https://github.com/vim-scripts/surround.vim.git
+git+https://github.com/scrooloose/syntastic.git
 git+https://github.com/vim-airline/vim-airline.git
 git+https://github.com/vim-airline/vim-airline-themes.git
 git+git@github.com:FBruynbroeck/vim-buildout.git

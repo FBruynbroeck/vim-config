@@ -29,3 +29,10 @@ ack.vim
 =======
 
 Install ack. (brew install ack)
+
+syntastic
+=========
+
+Install jshint. (brew install node ; sudo npm install -g jshint)
+
+Install pyflakes, pep8, flake8.
