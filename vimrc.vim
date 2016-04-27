@@ -114,3 +114,7 @@ let g:syntastic_loc_list_height=6
 let g:syntastic_html_tidy_ignore_errors=[" proprietary attribute ", "is not recognized!", "discarding unexpected", "trimming empty"]
 let g:syntastic_python_flake8_args = "--ignore=E501,E711,E712,N80,N81 --max-complexity 17"
 let g:syntastic_python_checkers=['flake8']
+
+" vim-indent-guides
+let g:indent_guides_enable_on_vim_startup=1
+set list lcs=tab:▸·

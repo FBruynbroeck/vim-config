@@ -20,6 +20,7 @@ git+git@github.com:FBruynbroeck/vim-buildout.git
 git+git://github.com/altercation/vim-colors-solarized.git
 git+https://github.com/tommcdo/vim-fubitive.git
 git+https://github.com/airblade/vim-gitgutter.git
+git+https://github.com/nathanaelkane/vim-indent-guides.git
 git+https://github.com/heavenshell/vim-pydocstring.git
 git+https://github.com/aperezdc/vim-template.git
 git+git@github.com:FBruynbroeck/vim-trac.git
