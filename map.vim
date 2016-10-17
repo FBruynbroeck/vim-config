@@ -19,3 +19,5 @@ vmap <leader>lw y:CtrlP<CR><C-\>c
 "Ack
 nmap <leader>a :Ack <cword><CR>
 vmap <leader>a y:Ack <C-r>=fnameescape(@")<CR><CR>
+"Gitv
+map <leader>g :Gitv<CR>
