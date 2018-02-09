@@ -25,11 +25,11 @@ Description:
 Finder for vim
 
 normal mode:
-- <leader>lw
+- <leader>p
 - insert the name of file and press Enter
 visual mode:
 - select the name of file
-- <leader>lw
+- <leader>p
 
 EnhancedCommentify
 ==================
